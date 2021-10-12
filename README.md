@@ -11,5 +11,5 @@
 <p> 👨‍💻 Analista de Sistemas - Bravo Serviços Logísticos </p>
 <p> 🖥️ Desenvolvedor Front-End </p>
 
-- [LinkedIn](https://br.linkedin.com/in/gadiego-nogueira-128248120)
-- [Instagram](https://www.instagram.com/gadiego_nogueira/)
+- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/gadiego-nogueira-128248120)
+- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gadiego_nogueira/)
