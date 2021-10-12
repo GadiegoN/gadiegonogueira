@@ -10,7 +10,7 @@
 <p> 👨‍💻 Desenvolvedor Mobile - Dyndo </p>
 <p> 🖥️ Front-End </p>
 > Status: 01/04/2019 até 09/10/2020 
-###
+# -
 <p> 👨‍💻 Analista de Sistemas - Bravo Serviços Logísticos </p>
 <p> 🖥️ Front-End </p>
 > Status: 13/10/2020 até o momento 
